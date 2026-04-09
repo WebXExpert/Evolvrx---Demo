@@ -82,7 +82,7 @@ export function CaseStudies() {
         <div className="absolute bottom-[-10%] left-[-5%] w-[600px] h-[600px] bg-cyan-100/50 rounded-full blur-[150px]" />
       </div>
 
-      <div className="max-w-[1600px] mx-auto px-8 relative z-10">
+      <div className="w-full px-8 md:px-16 lg:px-24 relative z-10">
         {/* Header */}
         <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
           <div>

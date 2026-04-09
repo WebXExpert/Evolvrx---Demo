@@ -28,7 +28,7 @@ const itemVariants = {
 
 export function ServicesBento() {
   return (
-    <section className="py-24 px-8 lg:px-16 w-full max-w-[1600px] mx-auto bg-slate-50">
+    <section className="py-24 px-8 md:px-16 lg:px-24 w-full bg-slate-50">
       
       {/* Section Header */}
       <motion.div 

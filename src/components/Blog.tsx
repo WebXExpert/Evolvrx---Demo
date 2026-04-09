@@ -31,7 +31,7 @@ const blogPosts = [
 export function Blog() {
   return (
     <section className="py-32 bg-slate-50 relative">
-      <div className="max-w-[1400px] mx-auto px-8">
+      <div className="w-full px-8 md:px-16 lg:px-24">
         
         <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
           <div>

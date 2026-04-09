@@ -7,7 +7,7 @@ export function BookingCTA() {
       {/* Background Glows */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-[1000px] h-[500px] bg-blue-50/80 rounded-full blur-[120px] pointer-events-none" />
       
-      <div className="max-w-[1400px] mx-auto px-8 relative z-10">
+      <div className="w-full px-8 md:px-16 lg:px-24 relative z-10">
         <div className="bg-slate-50 border border-slate-200 rounded-[3rem] p-8 md:p-16 shadow-xl shadow-slate-200/50 overflow-hidden relative">
           
           {/* Grid Pattern Overlay */}

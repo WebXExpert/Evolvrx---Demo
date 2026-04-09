@@ -38,7 +38,7 @@ export function CoreServices() {
 
   return (
     <section className="py-32 bg-white relative overflow-hidden">
-      <div className="max-w-[1400px] mx-auto px-8">
+      <div className="w-full px-8 md:px-16 lg:px-24">
         <div className="mb-20">
           <h2 className="text-4xl md:text-6xl font-extrabold text-slate-900 tracking-tight mb-6">
             Core Digital <br className="hidden md:block" />
