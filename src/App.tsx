@@ -4,12 +4,12 @@
  */
 
 import { SmoothScroll } from './components/SmoothScroll';
-import { ServicesPage } from './pages/ServicesPage';
+import { ServiceHeroesShowcase } from './pages/ServiceHeroesShowcase';
 
 export default function App() {
   return (
     <SmoothScroll>
-      <ServicesPage />
+      <ServiceHeroesShowcase />
     </SmoothScroll>
   );
 }
